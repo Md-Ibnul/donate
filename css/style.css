@@ -191,6 +191,7 @@ margin-bottom: 20px;
 /* updates style */
 .update{
   margin-top: 50px;
+  margin-bottom: 130px;
 }
 .update-dtails{
   width: 1000px;
@@ -225,4 +226,26 @@ font-family: 'Poppins', sans-serif;
   font-weight: 500;
 font-size: 16px;
 border-radius: 0px 5px 5px 0px;
+}
+/* footer section */
+.copyright{
+  background: #0B0D17;
+  width: 100%;
+  text-align: center;
+}
+.copy-details{
+  padding: 43px 0;
+}
+.copy-title{
+  font-family: 'Lobster', cursive;
+  font-weight: 400;
+font-size: 36px;
+color: #FF5959;
+margin-bottom: 14px;
+}
+.copy-description{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+font-size: 14px;
+color: #D9DBE1;
 }
