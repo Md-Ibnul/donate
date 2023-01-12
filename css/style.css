@@ -25,7 +25,7 @@ input[type="number"]::-webkit-outer-spin-button {
   color: #707070;
   font-family: "Poppins", sans-serif;
   width: 75%;
-  margin: auto;
+  margin: 0 auto;
 }
 .primary-btn {
   padding: 16px 12px;
@@ -111,7 +111,7 @@ font-family: 'Poppins', sans-serif;
 /* donate plan style */
 .donate-plan {
   width: 1140px;
-  margin: auto;
+  margin: 0 auto;
   margin-bottom: 130px;
 }
 .donate-plan-details {
@@ -157,7 +157,7 @@ font-family: 'Poppins', sans-serif;
 /* donation style */
 .donation {
   width: 1000px;
-  margin: auto;
+  margin: 0 auto;
 }
 .donation-container {
   display: flex;
